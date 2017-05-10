@@ -6,8 +6,8 @@ OBJECT_SHARED Models/Airport/ils.xml 20.980717 52.152667 101.58 27.7
 OBJECT_SHARED Models/Communications/vordme_1.xml 20.952047 52.171167 104.42 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 20.960053 52.169758 102.78 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 20.980717 52.152667 101.58 180
-OBJECT_SHARED Models/Airport/localizer.xml 20.954164 52.180567 105.47 61.79
-OBJECT_SHARED Models/Airport/localizer.xml 20.985278 52.160653 100.97 204.6
+OBJECT_SHARED Models/Airport/localizer.xml 20.954164 52.180567 105.47 27.7
+OBJECT_SHARED Models/Airport/localizer.xml 20.985278 52.160653 100.97 245
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 20.8540787 52.1990365 100.9 259.06
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 20.8543231 52.2021535 101.92 280.91
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 20.8544546 52.2038861 102.04 76.9
