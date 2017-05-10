@@ -91,3 +91,4 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 26.15426 50.59508 226.82 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.15423 50.59518 226.73 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 26.15421 50.59527 226.67 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 26.168333 50.599167 226.44 240.37
