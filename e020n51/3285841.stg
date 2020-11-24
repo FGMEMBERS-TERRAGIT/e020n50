@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 20.319583333 51.304833333 122.96 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac 20.47114 51.25481 0.00 267.83
+# END dsf2stg

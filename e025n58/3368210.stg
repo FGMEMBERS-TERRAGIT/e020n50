@@ -1,3 +1,10 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 25.6202778 58.2569444 10.22 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 25.6280556 58.3530556 -22.37 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 25.6486111 58.3530556 -18.36 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml 25.50063 58.35025 71.36 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 25.50045 58.35022 77.78 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml 25.50011 58.35003 77.58 0
+# END dsf2stg
